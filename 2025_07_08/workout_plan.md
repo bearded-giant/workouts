@@ -9,17 +9,17 @@ Note: Legs are included with light volume due to knee injury history.
 
 ## Weekly Split
 
-- **Sunday - Chest (Primary Focus)**
-- **Monday - Shoulders + Triceps**
-- **Tuesday - Back + Biceps**
-- **Wednesday - Rest or Mobility**
-- **Thursday - Shoulders (Secondary Focus)**
-- **Friday - Arms (Biceps + Triceps)**
-- **Saturday - Legs (Light + Focused)**
+- **Day 1 - Chest (Primary Focus)**
+- **Day 2 - Shoulders + Triceps**
+- **Day 3 - Back + Biceps**
+- **Rest Day - Mobility/Recovery**
+- **Day 4 - Shoulders (Secondary Focus)**
+- **Day 5 - Arms (Biceps + Triceps)**
+- **Day 6 - Legs (Light + Focused)**
 
 ---
 
-## Sunday - Chest (Hypertrophy Focus)
+## Day 1 - Chest (Hypertrophy Focus)
 
 - Machine Chest Press - 4 sets × 8-12  
   *Feet planted, shoulder blades pinned, neutral wrist, drive from chest.*
@@ -35,7 +35,7 @@ Note: Legs are included with light volume due to knee injury history.
 
 ---
 
-## Monday - Shoulders + Triceps
+## Day 2 - Shoulders + Triceps
 
 - Cable Lateral Raises (Ankle Cuffs) - 4 sets × 12-15  
   *Cuffs on wrists, slight forward lean, lead with elbows, constant tension throughout.*
@@ -57,7 +57,7 @@ Note: Legs are included with light volume due to knee injury history.
 
 ---
 
-## Tuesday - Back + Biceps
+## Day 3 - Back + Biceps
 
 - Lat Pulldown (Neutral or Wide) - 4 sets × 10-12  
   *Drive elbows down, don't grip too tight.*
@@ -68,15 +68,15 @@ Note: Legs are included with light volume due to knee injury history.
 - Dumbbell Curls - 4 sets × 10-12  
   *Slow eccentric, tight contraction. Elbows stable.*
 
-- Cable Preacher or Concentration Curl - 3 sets × 12-15  
-  *Constant tension. Stretch fully at bottom.*
+- Bayesian Curl - 3 sets × 12-15 (each arm)  
+  *Cable low, face away, arm behind torso at 45°. Upper arm stays fixed, curl from stretch.*
 
-- Optional: Lat Straight-Arm Pulldown - 3 sets × 12-15  
+- Lat Prayers - 3 sets × 12-15  
   *Stretch lats. Keep arms mostly straight.*
 
 ---
 
-## Thursday - Shoulders (Secondary Focus)
+## Day 4 - Shoulders (Secondary Focus)
 
 - Cable Lateral Raises - 4 sets × 12-15  
   *Start from behind back, lead with elbow, slight lean.*
@@ -92,7 +92,7 @@ Note: Legs are included with light volume due to knee injury history.
 
 ---
 
-## Friday - Arms (Biceps + Triceps)
+## Day 5 - Arms (Biceps + Triceps)
 
 - Cable Rope Hammer Curl - 4 sets × 12-15  
   *Brachialis focus. Moderate weight, full range.*
@@ -108,7 +108,7 @@ Note: Legs are included with light volume due to knee injury history.
 
 ---
 
-## Saturday - Legs (Light Volume)
+## Day 6 - Legs (Light Volume)
 
 - Leg Press - 4 sets × 10-12  
   *Feet higher to protect knees. Slow eccentric.*

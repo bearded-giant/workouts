@@ -37,11 +37,11 @@ Note: Legs are included with light volume due to knee injury history.
 
 ## Monday - Shoulders + Triceps
 
-- Dumbbell Lateral Raises - 4 sets × 12-15  
-  *Lead with elbows, slight forward lean, no traps.*
+- Cable Lateral Raises (Ankle Cuffs) - 4 sets × 12-15  
+  *Cuffs on wrists, slight forward lean, lead with elbows, constant tension throughout.*
 
 - Machine Shoulder Press - 4 sets × 8-10  
-  *Neutral grip if possible. Drive with delts, avoid chest takeover.*
+  *Regular grip (palms forward). Drive with delts, avoid chest takeover.*
 
 - Rear Cable Cross-Pulls - 4 sets × 12-15  
   *Cross behind back, constant tension, squeeze rear delts.*
@@ -49,8 +49,11 @@ Note: Legs are included with light volume due to knee injury history.
 - Cable Overhead Tricep Extension - 4 sets × 12-15  
   *Long head focus. Elbows tight, stretch and contract fully.*
 
-- Close-Grip Machine Press - 3 sets × 10-12  
-  *Keep elbows tucked, controlled push, lockout optional.*
+- Meadows Tricep Extension (Vulcan Strap) - 3 sets × 12-15  
+  *Face away from cable, strap overhead. Deep stretch, drive elbows forward, squeeze at top.*
+
+- Close-Grip Smith Press - 3 sets × 10-12  
+  *Grip just inside shoulder width. Elbows tucked, bar to lower chest, explosive press.*
 
 ---
 
